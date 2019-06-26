@@ -28,5 +28,5 @@ Stream anime and sync your MyAnimeList (MAL) together with TaiYaKi!
   
 ### OPTION 2)
 
-  If you're jailbroken, you can install the .ipa directly into your device with filza manager and app sync
-  [Download IPA] (https://www.dropbox.com/s/hhhasti9gbnf23c/Taiyaki-Beta2.ipa?dl=0)
+  If you're jailbroken or prefer to use Cydia Impactor, you can install the .ipa directly into your device with filza manager and app sync
+  [Download IPA](https://www.dropbox.com/s/hhhasti9gbnf23c/Taiyaki-Beta2.ipa?dl=0)
